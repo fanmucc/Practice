@@ -1,8 +1,8 @@
 @font-face {
   font-family: 'fanmu';  /* project id 669017 */
-  src: url('//at.alicdn.com/t/font_669017_lrl66x3sq31y8pvi.eot');
-  src: url('//at.alicdn.com/t/font_669017_lrl66x3sq31y8pvi.eot?#iefix') format('embedded-opentype'),
-  url('//at.alicdn.com/t/font_669017_lrl66x3sq31y8pvi.woff') format('woff'),
-  url('//at.alicdn.com/t/font_669017_lrl66x3sq31y8pvi.ttf') format('truetype'),
-  url('//at.alicdn.com/t/font_669017_lrl66x3sq31y8pvi.svg#iconfont') format('svg');
+  src: url('http://at.alicdn.com/t/font_669017_lrl66x3sq31y8pvi.eot');
+  src: url('http://at.alicdn.com/t/font_669017_lrl66x3sq31y8pvi.eot?#iefix') format('embedded-opentype'),
+  url('http://at.alicdn.com/t/font_669017_lrl66x3sq31y8pvi.woff') format('woff'),
+  url('http://at.alicdn.com/t/font_669017_lrl66x3sq31y8pvi.ttf') format('truetype'),
+  url('http://at.alicdn.com/t/font_669017_lrl66x3sq31y8pvi.svg#iconfont') format('svg');
 }
